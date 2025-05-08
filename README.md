@@ -5,7 +5,7 @@
 - 🌍 From: Namangan, Uzbekistan.  
 - 🌐 Portfolio: [portflioooo.vercel.app](https://portflioooo.vercel.app)  
 - 📷 Instagram: [t__abdulaz1z](https://www.instagram.com/t__abdulaz1z)  
-- 💬 Telegram: [tabdulazizt](https://t.me/tabdulazizt)
+- 💬 Telegram: [t_abdulaz1z](https://t.me/t_abdulaz1z)
 
 ### 📊 GitHub Stats:
 
