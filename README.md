@@ -7,6 +7,8 @@
 - 📷 Instagram: [t__abdulaz1z](https://www.instagram.com/t__abdulaz1z)  
 - 💬 Telegram: [t_abdulaz1z](https://t.me/t_abdulaz1z)
 
+- ![](https://komarev.com/ghpvc/?username=abdulaziz-developer1&color=blue&theme=onedark)
+
 ### 📊 GitHub Stats:
 
 | 💻 **GitHub Stats** | 🌐 **Top Languages** |
