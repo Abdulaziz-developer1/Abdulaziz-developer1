@@ -1,24 +1,72 @@
-# - 👋 Hi coder, I’m @Abdulaziz-developer1 👋  
-- 😉 My name is Abdulaziz 😉  
-- 👨‍💻 I have expertise in HTML, CSS, JavaScript and React JS.  
-- 💼 I am proficient in Microsoft Excel, Word, and PowerPoint.  
-- 🌍 From: Namangan, Uzbekistan.  
-- 🌐 Portfolio: [portflioooo.vercel.app](https://portflioooo.vercel.app)  
-- 📷 Instagram: [t__abdulaz1z](https://www.instagram.com/t__abdulaz1z)  
-- 💬 Telegram: [t_abdulaz1z](https://t.me/t_abdulaz1z)
+<!-- Profile README for @Abdulaziz-developer1 -->
 
-- ![](https://komarev.com/ghpvc/?username=abdulaziz-developer1&color=blue&theme=onedark)
+<h1 align="center">Hi there, I'm Abdulaziz 👋</h1>
+<p align="center">
+  <b>Front-End Developer | React Enthusiast | Tech Explorer</b>
+</p>
+<p align="center">
+  <a href="https://portflioooo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://t.me/t_abdulaz1z" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://www.instagram.com/t__abdulaz1z" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-### 📊 GitHub Stats:
+---
 
-| 💻 **GitHub Stats** | 🌐 **Top Languages** |
-|--------------------|-----------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulaziz-developer1&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-developer1&layout=compact&theme=dark) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulaziz-developer1&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
-### 🛠️ Technologies and Tools:
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-- ![React JS](https://img.shields.io/badge/react-020a29.svg?&style=for-the-badge&logo=react&logoColor=white)
+---
 
-![Codewars](https://www.codewars.com/users/Abdulaziz12/badges/large)
+## 👨‍💻 About Me
+
+- 🌍 **Location:** Namangan, Uzbekistan  
+- 🧑‍💻 **Expertise:** HTML, CSS, JavaScript, React.js  
+- 💼 **Productivity:** Microsoft Excel, Word, PowerPoint  
+- 🌐 **Portfolio:** [portflioooo.vercel.app](https://portflioooo.vercel.app)  
+- 💬 **Connect:** [Telegram](https://t.me/t_abdulaz1z) | [Instagram](https://www.instagram.com/t__abdulaz1z)  
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulaziz-developer1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-developer1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://www.codewars.com/users/Abdulaziz12/badges/large" alt="Codewars Badge"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 📷 [Instagram: @t__abdulaz1z](https://www.instagram.com/t__abdulaz1z)
+- 💬 [Telegram: @t_abdulaz1z](https://t.me/t_abdulaz1z)
+- 🌐 [Portfolio Website](https://portflioooo.vercel.app)
+
+---
+
+<p align="center">
+  <i>“Striving for clean code and continuous learning.”</i>
+</p>
