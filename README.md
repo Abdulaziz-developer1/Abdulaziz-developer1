@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulaziz-developer1&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdulaziz-developer1&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" height="30"/> 
 </p>
 
 ---
@@ -57,6 +57,7 @@
     <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
   </div>
 </div>
+
 ---
 
 ## 📈 GitHub Stats
