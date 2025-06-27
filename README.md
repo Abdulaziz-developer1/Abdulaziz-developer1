@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Abdulaziz 👋</h1>
 <p align="center">
-  <b>Front-End Developer | React Enthusiast | Tech Explorer</b>
+  <b>Front-End Developer | React Studier | IT Explorer</b>
 </p>
 <p align="center">
   <a href="https://portflioooo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
