@@ -21,7 +21,7 @@
 - 🌍 **Location:** Namangan, Uzbekistan  
 - 🧑‍💻 **Expertise:** HTML, CSS, JavaScript, React.js  
 - 💼 **Productivity:** Microsoft Excel, Word, PowerPoint  
-- 🌐 **Portfolio:** [portflio](https://portflioooo.vercel.app)  
+- 🌐 **Portfolio:** [Portflio](https://portflioooo.vercel.app)  
 - 💬 **Connect:** [Telegram](https://t.me/t_abdulaz1z) | [Instagram](https://www.instagram.com/t__abdulaz1z)  
 
 ---
