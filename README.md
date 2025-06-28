@@ -1,5 +1,3 @@
-<!-- Profile README for @Abdulaziz-developer1 -->
-
 <h1 align="center">Hi there, I'm Abdulaziz 👋</h1>
 <p align="center">
   <b>Front-End Developer | React Studier | IT Explorer</b>
