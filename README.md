@@ -83,6 +83,6 @@
 
 ---
 
-<p align="center">
+<p align="center" >
   <i>“Striving for clean code and continuous learning.”</i>
 </p>
