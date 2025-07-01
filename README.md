@@ -78,7 +78,7 @@
 ## 📫 Let's Connect!
 
 - 📷 [Instagram: @t__abdulaz1z](https://www.instagram.com/t__abdulaz1z)
-- 💬 [Telegram: @t_abdulaz1z](https://t.me/t_abdulaz1z)
+- 💬 [Telegram: @t_abdulaziz_t](https://t.me/t_abdulaz1z)
 - 🌐 [Portfolio Website](https://portflioooo.vercel.app)
 
 ---
