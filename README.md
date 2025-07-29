@@ -20,7 +20,6 @@
 
 - 🌍 **Location:** Namangan, Uzbekistan  
 - 🧑‍💻 **Expertise:** HTML, CSS, JavaScript, React.js and Vue JS
-- 💼 **Productivity:** Microsoft Excel, Word, PowerPoint  
 - 🌐 **Portfolio:** [Portflio](https://portflioooo.vercel.app)  
 - 💬 **Connect:** [Telegram](https://t.me/t_abdulaz1z) | [Instagram](https://www.instagram.com/t__abdulaz1z)  
 
@@ -51,14 +50,6 @@
     <img src="https://img.shields.io/badge/i18n-0078D4?style=for-the-badge&logo=google-translate&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swiper-6332f6?style=for-the-badge&logo=swiper&logoColor=white"/>
   </div>
-
-  ### Productivity
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  </div>
-</div>
 
 ---
 
