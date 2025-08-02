@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Abdulaziz 👋</h1>
-<p align="center">
-  <b>Front-End Developer | Vue JS developer | IT Explorer</b>
-</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=500&color=fff&center=true&vCenter=true&width=400&lines=React+js%20developer+%7C;Vue%20Js%20developer%7C;+Hireable;Always+Active+%7C;+Github+contributer;Codewars+user" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <a href="https://portflioooo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
   <a href="https://t.me/t_abdulaz1z" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
