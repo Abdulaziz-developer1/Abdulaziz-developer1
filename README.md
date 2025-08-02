@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdulaziz 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=500&color=fff&center=true&vCenter=true&width=400&lines=React+js%20developer+%7C;Vue%20Js%20developer%7C;+Hireable;Always+Active+%7C;+Github+contributer;Codewars+user" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=500&color=fff&center=true&vCenter=true&width=400&lines=React+JS%20developer+%7C;Vue%20JS%20developer%7C;+Hireable;Always+Active+%7C;+Github+Contributer;Codewars+active+User" alt="Typing SVG" />
 </div>
 
 <p align="center">
