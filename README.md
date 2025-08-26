@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://portflioooo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://t.me/t_abdulaz1z" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://vue-portfolio-dark.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://t.me/t_abdulaziz_t" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
   <a href="https://www.instagram.com/t__abdulaz1z" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
@@ -22,8 +22,8 @@
 
 - 🌍 **Location:** Namangan, Uzbekistan  
 - 🧑‍💻 **Expertise:** HTML, CSS, JavaScript, React.js and Vue JS
-- 🌐 **Portfolio:** [Portflio](https://portflioooo.vercel.app)  
-- 💬 **Connect:** [Telegram](https://t.me/t_abdulaz1z) | [Instagram](https://www.instagram.com/t__abdulaz1z)  
+- 🌐 **Portfolio:** [Portflio](https://vue-portfolio-dark.vercel.app)  
+- 💬 **Connect:** [Telegram](https://t.me/t_abdulaziz_t) | [Instagram](https://www.instagram.com/t__abdulaz1z)  
 
 ---
 
