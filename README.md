@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Abdulaziz 👋</h1>
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/0a3e7b47-6111-4156-9708-31ccb1901241">
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=500&color=00C3FF&center=true&vCenter=true&width=500&lines=React+JS+Developer;Vue+JS+Developer;Frontend+Enthusiast;Clean+Code+Advocate;Active+Github+Contributor;Codewars+Active+User;Hireable;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
