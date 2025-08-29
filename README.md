@@ -1,13 +1,14 @@
 <h1 align="center">Hi there, I'm Abdulaziz 👋</h1>
+<img src="https://ibb.co/CKwzqvwC">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=500&color=00C3FF&center=true&vCenter=true&width=500&lines=React+JS+Developer;Vue+JS+Developer;Frontend+Enthusiast;Clean+Code+Advocate;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=500&color=00C3FF&center=true&vCenter=true&width=500&lines=React+JS+Developer;Vue+JS+Developer;Frontend+Enthusiast;Clean+Code+Advocate;Active+Github+Contributor;Codewars+Active+User;Hireable;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </div>
 
 ---
 
 <p align="center">
-  <a href="https://vue-portfolio-dark.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-678902?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://vue-portfolio-dark.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-2aa149?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://t.me/t_abdulaziz_t" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.instagram.com/t__abdulaz1z" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -25,6 +26,7 @@ I’m a **Frontend Developer** passionate about building clean, modern, and user
 
 - 🚀 Love working with **React.js** & **Vue.js**  
 - 🎨 Focused on UI/UX and performance  
+- 🧠 Improving skills for solving JS problems
 - 🌱 Always learning and leveling up my JavaScript game  
 - ⚡ Currently building side projects to sharpen skills  
 - 🌐 Check out my portfolio: [vue-portfolio-dark.vercel.app](https://vue-portfolio-dark.vercel.app)
@@ -99,7 +101,7 @@ I’m a **Frontend Developer** passionate about building clean, modern, and user
 <p align="center">
   <a href="https://t.me/t_abdulaziz_t"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.instagram.com/t__abdulaz1z"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://vue-portfolio-dark.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://vue-portfolio-dark.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2aa149?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
