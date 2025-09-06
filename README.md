@@ -50,10 +50,10 @@ I’m a **Frontend Developer** passionate about building clean, modern, and user
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swiper-6332f6?style=for-the-badge&logo=swiper&logoColor=white"/>
   <img src="https://img.shields.io/badge/i18n-0078D4?style=for-the-badge&logo=google-translate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Toastify-FF9100?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Toastify-FF9100?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
