@@ -61,14 +61,31 @@ I’m a **Frontend Developer** passionate about building clean, modern, and user
 
 ## 🚀 Featured Projects
 
-- 🌐 **[Portfolio](https://github.com/Abdulaziz-developer1/Portfolio)**  
-  Personal developer portfolio built with **Vue.js**, showing off personal information, skills, and design sense.  
-
-- 🛠️ **[Workroom](https://github.com/Abdulaziz-developer1/workroom)**  
-  A collaborative workspace and CRM app demonstrating strong **Vue.js** and **state management** skills.  
-
-- 📘 **[Algoritm-Exam-React](https://github.com/Abdulaziz-developer1/algoritm-exam-react)**  
-  Algorithm practice platform built with **React.js**, highlighting problem-solving and clean component structure.  
+<p align="center">
+  <a href="https://github.com/Abdulaziz-developer1/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz-developer1&repo=Portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Abdulaziz-developer1/workroom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz-developer1&repo=workroom&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Abdulaziz-developer1/algoritm-exam-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz-developer1&repo=algoritm-exam-react&theme=tokyonight&hide_border=true" />
+  </a>
+    <a href="https://github.com/Abdulaziz-developer1/virtualr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz-developer1&repo=virtualr&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Abdulaziz-developer1/Abdulaziz-developer1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz-developer1&repo=Abdulaziz-developer1&theme=tokyonight&hide_border=true" />
+  </a>
+    <a href="https://github.com/Abdulaziz-developer1/github">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulaziz-developer1&repo=github&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+ 
 
 ---
 
