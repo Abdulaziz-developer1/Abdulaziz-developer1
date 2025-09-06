@@ -28,9 +28,8 @@ I’m a **Frontend Developer** passionate about building clean, modern, and user
 - 🚀 Love working with **React.js** & **Vue.js**  
 - 🎨 Focused on UI/UX and performance  
 - 🧠 Improving skills for solving JS problems
-- 🌱 Always learning and leveling up my JavaScript game  
-- ⚡ Currently building side projects to sharpen skills  
-- 🌐 Check out my portfolio: [vue-portfolio-dark.vercel.app](https://vue-portfolio-dark.vercel.app)
+- 🌱 Always learning and building web-sites  
+- 🌐 Check out my portfolio: [Visit](https://vue-portfolio-dark.vercel.app)
 
 ---
 
