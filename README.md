@@ -56,6 +56,13 @@ I’m a **Frontend Developer** passionate about building clean, modern, and user
   <img src="https://img.shields.io/badge/Toastify-FF9100?style=for-the-badge&logoColor=white"/>
 </p>
 
+### 🗄️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
