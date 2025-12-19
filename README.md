@@ -102,20 +102,12 @@ I’m a **Frontend Developer** passionate about building clean, modern, and user
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz-developer1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdulaziz-developer1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
   <img src="https://www.codewars.com/users/Abdulaziz12/badges/large" alt="Codewars Badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulaziz-developer1&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
